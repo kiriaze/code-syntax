@@ -14,11 +14,11 @@ open source projects. This is aimed at html, css, js and php.
   - Always try to write code that clearly demonstrates and communicates it's intent.
 
 ## Table of Contents
+*TODO*
 HTML
 CSS
 JS
 PHP
-*TODO*
 
 ##Naming Conventions
 
@@ -327,32 +327,31 @@ class Foo_Bar {
 ```
 
 
-
-CSS
-    No underscores, camelcasing, or double hyphens - umm did people forget proper naming conventions specific to each language?
-        Although I would prefer using camelcasing over many hypens
-    Scss only, less sucks donkey dick.
-    Minimal ID's, primarily for main elements, e.g. header,nav, main, footer, and for js manipulation.
-    Placeholders galore. ( % incase you didn't know )
-    Prefix free, of source files. ( let your compiler handle that jazz )
-    No super nesting, 3 levels deep - max.
-    Tabs people, make code readable. ( In other words, 4 spaces instead of 2 )
+## CSS
+  - No underscores, camelcasing, or double hyphens - umm did people forget proper naming conventions specific to each language?
+    - Although I would prefer using camelcasing over many hypens
+  - Scss only, less sucks donkey dick.
+  - Minimal ID's, primarily for main elements, e.g. header,nav, main, footer, and for js manipulation.
+  - Placeholders galore. ( % incase you didn't know )
+  - Prefix free, of source files. ( let your compiler handle that jazz )
+  - No super nesting, 3 levels deep - max.
+  - Tabs people, make code readable. ( In other words, 4 spaces instead of 2 )
 
 Space out your shit. Example:
 * Space out your shit. Example:
 ```
-    // css
+    // css - 1 space after selector name, 1 tab per property
     .some-element {
         width: 80%;
         margin: 0 auto;
     }
 
-    // js
+    // js - see the spaces? get some glasses then.
     if ( $( '.some-element' ).length ) {
         console.log('foo');
     }
 
-    // php
+    // php - ditto
     if ( isset( $someElement ) ) {
         print_r($someElement);
     }
