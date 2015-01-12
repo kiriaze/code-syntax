@@ -15,10 +15,10 @@ open source projects. This is aimed at html, css, js and php.
 
 ## Table of Contents
 *TODO*
-HTML
-CSS
-JS
-PHP
+  - HTML
+  - CSS
+  - JS
+  - PHP
 
 ##Naming Conventions
 
