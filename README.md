@@ -1,10 +1,10 @@
 # Proper Code Syntax
-The right way structure your code. Borrowed and elaborated upon from SFE, which founded SOMA.
+My ideal opinionated way to structure code. Borrowed and elaborated upon from SFE, which founded SOMA.
 *Very much a work in progress :)*
 
 ## Goal
 
-To establish more consistency and readability across developers, the Made by Grizzly team and our
+To establish more consistency and readability across developers, teams and my
 open source projects. This is aimed at html, css, js and php.
 
 ## Ideals
