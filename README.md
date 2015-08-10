@@ -1,5 +1,5 @@
 # Proper Code Syntax
-My ideal opinionated way to structure code. Borrowed and elaborated upon from SFE, which founded SOMA.
+My ideal opinionated way to structure code. Borrowed and elaborated upon from Juice, which founded SOMA.
 *Very much a work in progress :)*
 
 ## Goal
