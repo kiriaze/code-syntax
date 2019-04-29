@@ -1,9 +1,11 @@
 # Proper Code Syntax
 My ideal opinionated way to structure code. Borrowed and elaborated upon from Juice, which founded SOMA.
+```
   S imple
   O bject Oriented
   M odular
   A rchitecture
+```
 *Very much a work in progress :)*
 
 ## Goal
